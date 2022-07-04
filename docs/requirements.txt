@@ -1,3 +1,4 @@
 sphinx>=1.7.5
 pandoc
 jupyter
+mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
