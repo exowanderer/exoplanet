@@ -1,3 +1,4 @@
 sphinx>=1.7.5
 pandoc
 jupyter
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
