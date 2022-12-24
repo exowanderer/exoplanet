@@ -11,3 +11,4 @@ celerite>=0.3.1
 starry
 batman-package
 radvel
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
