@@ -1,3 +1,4 @@
 sphinx>=1.7.5
 pandoc
 jupyter
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
