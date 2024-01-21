@@ -3,3 +3,4 @@ emcee>=3.0rc2
 cppimport
 pybind11
 matplotlib
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
