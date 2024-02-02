@@ -2,3 +2,4 @@ theano>=1.0.4
 numpy>=1.13.0
 pymc3>=3.5
 astropy>=3.1
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
